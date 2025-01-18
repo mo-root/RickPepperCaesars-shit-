@@ -1,10 +1,11 @@
-Certainly! Below is the updated README with additional emojis and the precision result added to the "Game Simulation & Results" section.
-
----
-
 # Rock-Paper-Scissors Game AI with Viterbi Algorithm 🤖✂️🧑‍🤝‍🧑
 
 Welcome to the **Rock-Paper-Scissors Game AI** repository! This project implements an AI for the classic Rock-Paper-Scissors game, where the AI learns to predict the player's next move based on observed game outcomes. Using the **Viterbi algorithm** and a Hidden Markov Model (HMM), the AI improves its prediction strategy over time.
+
+
+![Moin Mattar's Video - Jan 18, 2025-VEED](https://github.com/user-attachments/assets/64dd1404-08d4-4cc6-8a92-f77ff23a9e8b)
+
+
 
 ---
 
